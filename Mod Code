@@ -1,0 +1,16 @@
+var shiptree = []
+
+// Ships
+
+ships.push()
+
+this.options = {
+  // see documentation for options reference
+  root_mode: "survival",
+  ships: ships,
+  map_size: 30
+};
+
+this.tick = function(game) {
+  // do mod stuff here ; see documentation
+};

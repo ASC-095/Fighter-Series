@@ -1,9 +1,7 @@
 // Fighter-Series - Fight, Kill, Win!
 // mod beta by ASC-095, Buggy and AETHER
-
 // Scripting done by AETHER
-
-// Ship building done by mostly ASC-095 and Buggy (with some help from AETHER)
+// Ship building done by mostly ASC-095 and Buggy (with some help from AETHER, some owned by the Starblast.io Developers)
 
 var ships = [];
 
